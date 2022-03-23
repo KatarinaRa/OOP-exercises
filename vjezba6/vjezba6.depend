@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1620130418 source:c:\users\ramljak\desktop\vjezba1\vjezba6\zivotinja.cpp
+	"zivotinja.hpp"
+	<iostream>
+
+1619128081 c:\users\ramljak\desktop\vjezba1\vjezba6\zivotinja.hpp
+	<iostream>
+	<string>
+
+1619128607 source:c:\users\ramljak\desktop\vjezba1\vjezba6\main.cpp
+	<iostream>
+	<string>
+	"zivotinja.hpp"
+	"Kukac.hpp"
+	"Pauk.hpp"
+	"Ptica.hpp"
+	"Tarantula.hpp"
+	"Gavran.hpp"
+	"Pcela.hpp"
+	"Brojac.hpp"
+
+1619128948 source:c:\users\ramljak\desktop\vjezba1\vjezba6\gavran.cpp
+	"Gavran.hpp"
+
+1619128951 source:c:\users\ramljak\desktop\vjezba1\vjezba6\kukac.cpp
+	"Kukac.hpp"
+
+1619128952 c:\users\ramljak\desktop\vjezba1\vjezba6\kukac.hpp
+	<string>
+	<iostream>
+	"zivotinja.hpp"
+
+1619128950 source:c:\users\ramljak\desktop\vjezba1\vjezba6\pauk.cpp
+	"Pauk.hpp"
+
+1619128950 c:\users\ramljak\desktop\vjezba1\vjezba6\pauk.hpp
+	<string>
+	<iostream>
+	"zivotinja.hpp"
+
+1619128458 source:c:\users\ramljak\desktop\vjezba1\vjezba6\ptica.cpp
+	"Ptica.hpp"
+
+1619128458 c:\users\ramljak\desktop\vjezba1\vjezba6\ptica.hpp
+	<string>
+	<iostream>
+	"zivotinja.hpp"
+
+1619128427 source:c:\users\ramljak\desktop\vjezba1\vjezba6\brojac.cpp
+	"Brojac.hpp"
+	<string>
+	<iostream>
+
+1619128064 c:\users\ramljak\desktop\vjezba1\vjezba6\brojac.hpp
+	<string>
+	<iostream>
+	<string>
+
+1619128952 source:c:\users\ramljak\desktop\vjezba1\vjezba6\pcela.cpp
+	"Pcela.hpp"
+
+1619128949 source:c:\users\ramljak\desktop\vjezba1\vjezba6\tarantula.cpp
+	"Tarantula.hpp"
+
+1620130458 c:\users\ramljak\desktop\vjezba1\vjezba6\tarantula.hpp
+	<string>
+	"Pauk.hpp"
+	<iostream>
+
+1620130436 c:\users\ramljak\desktop\vjezba1\vjezba6\gavran.hpp
+	<string>
+	"Ptica.hpp"
+	<iostream>
+
+1620130446 c:\users\ramljak\desktop\vjezba1\vjezba6\pcela.hpp
+	<string>
+	<iostream>
+	"Kukac.hpp"
+

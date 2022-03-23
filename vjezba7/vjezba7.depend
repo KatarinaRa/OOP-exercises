@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1619540170 source:c:\users\ramljak\desktop\vjezba1\vjezba7\brojac.cpp
+	"Brojac.h"
+	"Vehicle.h"
+	<string>
+	<iostream>
+
+1619539566 c:\users\ramljak\desktop\vjezba1\vjezba7\brojac.h
+	"Vehicle.h"
+	<string>
+	<iostream>
+	<string>
+
+1619522813 source:c:\users\ramljak\desktop\vjezba1\vjezba7\aircraft.cpp
+	"Aircraft.h"
+
+1619539925 c:\users\ramljak\desktop\vjezba1\vjezba7\aircraft.h
+	"Vehicle.h"
+	<iostream>
+	<string>
+
+1619539925 c:\users\ramljak\desktop\vjezba1\vjezba7\vehicle.h
+	<iostream>
+	<string>
+
+1619533153 source:c:\users\ramljak\desktop\vjezba1\vjezba7\vehicle.cpp
+	"Vehicle.h"
+
+1619540159 source:c:\users\ramljak\desktop\vjezba1\vjezba7\main.cpp
+	<iostream>
+	<string>
+	"Vehicle.h"
+	"Watercraft.h"
+	"Aircraft.h"
+	"Catamaran.h"
+	"Seaplane.h"
+	"Ferry.h"
+	"Brojac.h"
+
+1619539925 c:\users\ramljak\desktop\vjezba1\vjezba7\watercraft.h
+	<iostream>
+	<string>
+	"Vehicle.h"
+
+1619540036 c:\users\ramljak\desktop\vjezba1\vjezba7\catamaran.h
+	"Watercraft.h"
+	"Vehicle.h"
+	<iostream>
+	<string>
+
+1619539964 c:\users\ramljak\desktop\vjezba1\vjezba7\seaplane.h
+	"Watercraft.h"
+	"Aircraft.h"
+	"Vehicle.h"
+	<iostream>
+	<string>
+
+1619540097 c:\users\ramljak\desktop\vjezba1\vjezba7\ferry.h
+	"Watercraft.h"
+	<iostream>
+	<string>
+
+1619522816 source:c:\users\ramljak\desktop\vjezba1\vjezba7\watercraft.cpp
+	"Watercraft.h"
+
+1619539979 source:c:\users\ramljak\desktop\vjezba1\vjezba7\seaplane.cpp
+	"Seaplane.h"
+
+1619540097 source:c:\users\ramljak\desktop\vjezba1\vjezba7\catamaran.cpp
+	"Catamaran.h"
+
+1619540097 source:c:\users\ramljak\desktop\vjezba1\vjezba7\ferry.cpp
+	"Ferry.h"
+

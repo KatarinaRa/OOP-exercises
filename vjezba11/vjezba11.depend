@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1622571259 source:c:\users\ramljak\desktop\vjezba1\vjezba11\main.cpp
+	"trokut.h"
+	<vector>
+	<algorithm>
+	<math.h>
+	<string>
+	<iostream>
+	"funkcije.h"
+
+1622569175 c:\users\ramljak\desktop\vjezba1\vjezba11\trokut.h
+	<iostream>
+	<vector>
+	<list>
+	<string>
+
+1622571435 c:\users\ramljak\desktop\vjezba1\vjezba11\funkcije.h
+	"trokut.h"
+	<vector>
+	<algorithm>
+	<math.h>
+	<string>
+	<iostream>
+

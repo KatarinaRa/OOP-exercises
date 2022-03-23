@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1619871743 source:c:\users\ramljak\desktop\vjezba1\vjezba8\main.cpp
+	<iostream>
+	"money.h"
+
+1619873255 c:\users\ramljak\desktop\vjezba1\vjezba8\money.h
+	<iostream>
+
+1619873255 source:c:\users\ramljak\desktop\vjezba1\vjezba8\money.cpp
+	<iostream>
+	"money.h"
+

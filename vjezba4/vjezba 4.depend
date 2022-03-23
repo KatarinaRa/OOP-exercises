@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1617124411 source:c:\users\ramljak\desktop\vjezba1\vjezba 4\zadatak1.cpp
+	<iostream>
+	"vektor.hpp"
+
+1617124622 source:c:\users\ramljak\desktop\vjezba1\vjezba 4\point.cpp
+	"point.hpp"
+
+1617124563 c:\users\ramljak\desktop\vjezba1\vjezba 4\point.hpp
+	<iostream>
+
+1617118558 source:c:\users\ramljak\desktop\vjezba1\vjezba 4\board.cpp
+	<iostream>
+	"board.hpp"
+	"point.hpp"
+
+1617117208 c:\users\ramljak\desktop\vjezba1\vjezba 4\board.hpp
+	<iostream>
+	<string>
+	"point.hpp"
+
+1617124597 source:c:\users\ramljak\desktop\vjezba1\vjezba 4\main.cpp
+	<iostream>
+	"board.hpp"
+	"point.hpp"
+
+1617124513 c:\users\ramljak\desktop\vjezba1\vjezba 4\vektor.hpp
+	<iostream>
+
+1617124594 source:c:\users\ramljak\desktop\vjezba1\vjezba 4\source.cpp
+	<iostream>
+	"vektor.hpp"
+
+1617751375 source:c:\users\ramljak\desktop\vjezba1\vjezba4\board.cpp
+	<iostream>
+	"board.hpp"
+	"point.hpp"
+
+1617749468 c:\users\ramljak\desktop\vjezba1\vjezba4\board.hpp
+	<iostream>
+	<string>
+	"point.hpp"
+
+1617124563 c:\users\ramljak\desktop\vjezba1\vjezba4\point.hpp
+	<iostream>
+
+1617750194 source:c:\users\ramljak\desktop\vjezba1\vjezba4\main.cpp
+	<iostream>
+	"board.hpp"
+	"point.hpp"
+
+1617124622 source:c:\users\ramljak\desktop\vjezba1\vjezba4\point.cpp
+	"point.hpp"
+
+1617750193 source:c:\users\ramljak\desktop\vjezba1\vjezba4\source.cpp
+	<iostream>
+	"vektor.hpp"
+
+1617137421 c:\users\ramljak\desktop\vjezba1\vjezba4\vektor.hpp
+	<iostream>
+
+1617139458 source:c:\users\ramljak\desktop\vjezba1\vjezba4\zadatak1.cpp
+	<iostream>
+	"vektor.hpp"
+

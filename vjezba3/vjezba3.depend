@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1616506853 source:c:\users\ramljak\desktop\vjezba1\vjezba3\zadatak1.cpp
+	<iostream>
+
+1616532384 source:c:\users\ramljak\desktop\vjezba1\vjezba3\main.cpp
+	<iostream>
+	"header.hpp"
+	"oruzje.hpp"
+	"meta.hpp"
+
+1616518694 c:\users\ramljak\desktop\vjezba1\vjezba3\header.hpp
+	<iostream>
+
+1616518149 source:c:\users\ramljak\desktop\vjezba1\vjezba3\zadatak2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"header.hpp"
+
+1616518743 source:c:\users\ramljak\desktop\vjezba1\vjezba3\zadatak3.cpp
+	<iostream>
+	"header.hpp"
+	"oruzje.hpp"
+
+1616514120 source:c:\users\ramljak\desktop\vjezba1\vjezba3\zadatak4.cpp
+	<iostream>
+	"header.hpp"
+
+1616522121 c:\users\ramljak\desktop\vjezba1\vjezba3\oruzje.hpp
+	<iostream>
+	"header.hpp"
+
+1616522106 c:\users\ramljak\desktop\vjezba1\vjezba3\meta.hpp
+	<iostream>
+	"header.hpp"
+
+1616522106 source:c:\users\ramljak\desktop\vjezba1\vjezba3\zadatak 5.cpp
+	<iostream>
+	"header.hpp"
+	"oruzje.hpp"
+	"meta.hpp"
+

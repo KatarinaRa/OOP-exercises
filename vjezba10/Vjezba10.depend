@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622392784 source:c:\users\ramljak\desktop\vjezba1\vjezba10\iznimka.cpp
+	<iostream>
+	"iznimka.h"
+	"errorsdatoteka.h"
+	<ctime>
+	<limits>
+
+1622392926 c:\users\ramljak\desktop\vjezba1\vjezba10\iznimka.h
+	<iostream>
+
+1622392206 source:c:\users\ramljak\desktop\vjezba1\vjezba10\errorsdatoteka.cpp
+	"errorsdatoteka.h"
+
+1622392206 c:\users\ramljak\desktop\vjezba1\vjezba10\errorsdatoteka.h
+	<fstream>
+

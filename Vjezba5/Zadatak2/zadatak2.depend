@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1617737061 source:c:\users\ramljak\desktop\vjezba1\vjezba5\zadatak2\zadatak2\igrac.cpp
+	"Igrac.hpp"
+
+1617736514 c:\users\ramljak\desktop\vjezba1\vjezba5\zadatak2\zadatak2\igrac.hpp
+	<string>
+
